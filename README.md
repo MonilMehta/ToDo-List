@@ -6,13 +6,13 @@ Welcome to the ToDoList project! This project is a simple web-based to-do list a
 
 Include screenshots of the login, signup, and main landing page here.
 
-![Login Page](ProjectPhotos/login.png)
+![Login Page](ProjectPhotos/Login.png)
 *Caption: Login Page*
 
-![Signup Page](ProjectPhotos/signup.png)
+![Signup Page](ProjectPhotos/Signup.png)
 *Caption: Signup Page*
 
-![Main Landing Page](ProjectPhotos/main.png)
+![Main Landing Page](ProjectPhotos/Main.png)
 *Caption: Main Landing Page*
 
 ## Getting Started
